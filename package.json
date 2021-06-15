@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nuxtjs/vercel-builder": "^0.21.3",
     "nuxt": "^2.15.6"
   }
 }
